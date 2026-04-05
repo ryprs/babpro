@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 05 Apr 2026 12:30:13 at https://www.lean-journey.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://www.lean-journey.org/ -O1 "C:\My Web Sites\sadasdasd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:30:18	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/attachments/1264594968765272065/1484188065097580635/image.png?ex=69bd5159&is=69bbffd9&hm=7efa0ebcaa9b13879d5fdfd694813f8de2a6ee89c0431094f932c915ce0f8f9a& (from https://www.lean-journey.org/)
+12:30:22	Error: 	"Not Found" (404) at link https://www.lean-journey.org/assets/images/HCfIzL_no_text.png (from https://www.lean-journey.org/download.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 11 links scanned, 8 files written (110790818 bytes overall) [109147054 bytes received at 4197963 bytes/sec], 6555834 bytes transferred using HTTP compression in 4 files, ratio 74%
+(2 errors, 0 warnings, 0 messages)
